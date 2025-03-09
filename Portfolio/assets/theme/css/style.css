@@ -98,6 +98,11 @@ a:hover {
 .mbr-section-subtitle {
     line-height: 1.4;
 }
+@media screen (min-width: 367px) + (max-width: 768px) {
+    .mbr-section-subtitle {
+        font-size: 14px;
+    }
+}
 
 .mbr-text {
     font-style: normal;
