@@ -98,8 +98,8 @@ a:hover {
 .mbr-section-subtitle {
     line-height: 1.4;
 }
-@media screen (min-width: 367px) + (max-width: 768px) {
-    .col-12 .title-wrapper h1 {
+@media screen  (max-width: 768px) {
+    .row .col-12 .title-wrapper h1 {
         font-size: 12px;
     }
 }
