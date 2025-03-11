@@ -1596,57 +1596,6 @@ a {
 .cid-uw6AQLksO8 .item-text {
   color: #fdfde1;
 }
-.cid-uw6ARJxL7y {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-image: url("../../../assets/images/gif-artist-glow-gif-by-erica-anderson.gif");
-}
-.cid-uw6ARJxL7y .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-uw6ARJxL7y .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-uw6ARJxL7y .mbr-section-btn {
-  margin-bottom: 22px;
-}
-.cid-uw6ARJxL7y .title-wrapper .mbr-section-title {
-  margin-bottom: 32px;
-}
-.cid-uw6ARJxL7y .title-wrapper .mbr-desc {
-  margin-bottom: 0;
-}
-@media (max-width: 992px) {
-  .cid-uw6ARJxL7y .title-wrapper .mbr-desc {
-    margin-bottom: 32px;
-  }
-}
-.cid-uw6ARJxL7y .text-wrapper .mbr-text {
-  margin-bottom: 0;
-}
-.cid-uw6ARJxL7y .mbr-section-title {
-  color: #000000;
-}
-.cid-uw6ARJxL7y .mbr-desc {
-  color: #fdfde1;
-}
-.cid-uw6ARJxL7y .mbr-text {
-  color: #000000;
-}
-.cid-uw6ARJxL7y .mbr-text,
-.cid-uw6ARJxL7y .text-wrapper {
-  color: #ffebcf;
-}
-.cid-uw6ARJxL7y .mbr-section-title,
-.cid-uw6ARJxL7y .mbr-section-btn {
-  color: #fdfde1;
-}
 .cid-uEYdbX2UsN {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -1836,7 +1785,7 @@ a {
   object-fit: cover;
   border-radius: 2rem;
   padding: 5px;
-  background-color: #4b4b4b;
+  background-color: #fffff5;
 }
 @media (max-width: 992px) {
   .cid-uEYAukwIkA .image-wrapper img {
@@ -1877,7 +1826,7 @@ a {
   gap: 32px;
   padding: 80px 60px;
   overflow: hidden;
-  border: 2px solid #ffb2ef;
+  border: 2px solid #bff747;
 }
 @media (max-width: 1200px) {
   .cid-uEYEf09Y4p .content-wrapper {
@@ -2013,13 +1962,13 @@ a {
   display: inline-flex;
   padding: 11px 20px;
   margin: 0 8px 8px 0;
-  background-color: #d3f2ff;
+  background-color: #bff747;
 }
 .cid-uEYEf09Y4p .content-wrapper .item .item-wrapper .tags-wrapper .list .item-wrap:nth-child(2n) {
-  background-color: #bafca2;
+  background-color: #c0f7ab;
 }
 .cid-uEYEf09Y4p .content-wrapper .item .item-wrapper .tags-wrapper .list .item-wrap:nth-child(3n) {
-  background-color: #fdfd96;
+  background-color: #fae25e;
 }
 .cid-uEYEf09Y4p .item-title {
   color: #050f0f;
@@ -2028,6 +1977,11 @@ a {
   color: #050f0f;
 }
 .cid-uEYEf09Y4p .list {
+  color: #050f0f;
+}
+.cid-uEYEf09Y4p .list,
+.cid-uEYEf09Y4p .item-wrap,
+.cid-uEYEf09Y4p .tags-wrapper {
   color: #050f0f;
 }
 .cid-uEYIaREsIs {
